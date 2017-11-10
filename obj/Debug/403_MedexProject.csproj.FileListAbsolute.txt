@@ -69,3 +69,5 @@ c:\users\user\source\repos\403_MedexProject\403_MedexProject\obj\Debug\403_Medex
 c:\users\user\source\repos\403_MedexProject\403_MedexProject\obj\Debug\403_MedexProject.csproj.CoreCompileInputs.cache
 c:\users\user\source\repos\403_MedexProject\403_MedexProject\obj\Debug\403_MedexProject.dll
 c:\users\user\source\repos\403_MedexProject\403_MedexProject\obj\Debug\403_MedexProject.pdb
+C:\Users\matth\Documents\GitHub\403_MedexProject\obj\Debug\403_MedexProject.dll
+C:\Users\matth\Documents\GitHub\403_MedexProject\obj\Debug\403_MedexProject.pdb
